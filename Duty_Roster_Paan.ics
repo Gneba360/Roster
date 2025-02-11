@@ -13,36 +13,37 @@ BEGIN:VEVENT
 SUMMARY:738AOP24: KUL → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250103T130000
 DTEND;TZID=Asia/Kuala_Lumpur:20250103T170000
-DESCRIPTION:Duty Start: 12:00\nDuty Code: B738RHS\nB738LVO\nB738COTR\nFlig
- ht: 738AOP24\nDeparture: KUL at 13:00 (Asia/Kuala_Lumpur)\nArrival: KUL at
-  17:00 (Asia/Kuala_Lumpur)\nConverted to Malaysia time: 03-Jan-2025 13:00 
- to 03-Jan-2025 17:00
+DESCRIPTION:Duty Start: 12:00\nDuty Code: B738 Right Hand Seat B738 LVO B7
+ 38 CERTIFICATE OF TEST - RECURRENT\nFlight: 738AOP24\nDeparture: KUL at 13
+ :00 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:00 (Asia/Kuala_Lumpur)\nConver
+ ted to Malaysia time: 03-Jan-2025 13:00 to 03-Jan-2025 17:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:738AOP34: KUL → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250104T130000
 DTEND;TZID=Asia/Kuala_Lumpur:20250104T170000
-DESCRIPTION:Duty Start: 12:00\nDuty Code: B738ETPR\nB738UPRR\nFlight: 738A
- OP34\nDeparture: KUL at 13:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:00 (
- Asia/Kuala_Lumpur)\nConverted to Malaysia time: 04-Jan-2025 13:00 to 04-Ja
- n-2025 17:00
+DESCRIPTION:Duty Start: 12:00\nDuty Code: B738 ETOPS - RECURRENT B738 UPRT
+  RECURRENT\nFlight: 738AOP34\nDeparture: KUL at 13:00 (Asia/Kuala_Lumpur)\
+ nArrival: KUL at 17:00 (Asia/Kuala_Lumpur)\nConverted to Malaysia time: 04
+ -Jan-2025 13:00 to 04-Jan-2025 17:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 179: KUL → CMB
 DTSTART;TZID=Asia/Kuala_Lumpur:20250106T223500
 DTEND;TZID=Asia/Kuala_Lumpur:20250107T020500
-DESCRIPTION:Duty Start: 21:20\nDuty Code: 7382LT3X 7382EDTX\nFlight: MH 17
- 9\nDeparture: KUL at 22:35 (Asia/Kuala_Lumpur)\nArrival: CMB at 23:35 (Asi
- a/Colombo)\nConverted to Malaysia time: 06-Jan-2025 22:35 to 07-Jan-2025 0
- 2:05
+DESCRIPTION:Duty Start: 21:20\nDuty Code: IOE/LIFUS - Functional IOE - EDT
+ O\nFlight: MH 179\nDeparture: KUL at 22:35 (Asia/Kuala_Lumpur)\nArrival: C
+ MB at 23:35 (Asia/Colombo)\nConverted to Malaysia time: 06-Jan-2025 22:35 
+ to 07-Jan-2025 02:05
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 178: CMB → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250107T031000
 DTEND;TZID=Asia/Kuala_Lumpur:20250107T065000
-DESCRIPTION:Duty Start: \nDuty Code: 7382LT3X 7382EDTX\nFlight: MH 178\nDe
- parture: CMB at 00:40 (Asia/Colombo)\nArrival: KUL at 06:50 (Asia/Kuala_Lu
- mpur)\nConverted to Malaysia time: 07-Jan-2025 03:10 to 07-Jan-2025 06:50
+DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional IOE - EDTO\nFl
+ ight: MH 178\nDeparture: CMB at 00:40 (Asia/Colombo)\nArrival: KUL at 06:5
+ 0 (Asia/Kuala_Lumpur)\nConverted to Malaysia time: 07-Jan-2025 03:10 to 07
+ -Jan-2025 06:50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 788: KUL → BKK
