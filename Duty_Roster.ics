@@ -117,14 +117,6 @@ DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 10
  ia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 11:15 to 15-Feb-2025 12:15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 2544: KUL → KCH
-DTSTART;TZID=Asia/Kuala_Lumpur:20250218T151500
-DTEND;TZID=Asia/Kuala_Lumpur:20250218T171500
-DESCRIPTION:Duty Start: 14:00\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 2544\nDeparture: KUL at 15:15 (Asia/Kuala_Lumpur)\nArrival: KCH at 17:1
- 5 (Asia/Kuching)\nMalaysia time: 18-Feb-2025 15:15 to 18-Feb-2025 17:15
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MH 2545: KCH → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250218T180000
 DTEND;TZID=Asia/Kuala_Lumpur:20250218T200000
