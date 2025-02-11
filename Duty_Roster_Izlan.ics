@@ -45,18 +45,14 @@ DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
  Asia/Kuala_Lumpur)\nMalaysia time: 10-Feb-2025 18:39 to 10-Feb-2025 21:20
 END:VEVENT
 BEGIN:VEVENT
-<<<<<<< HEAD
-SUMMARY:MH 2536: KUL → KCH
-DTSTART;TZID=Asia/Kuala_Lumpur:20250214T134500
-DTEND;TZID=Asia/Kuala_Lumpur:20250214T153500
-DESCRIPTION:Duty Start: 12:30\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 2536\nDeparture: KUL at 13:45 (Asia/Kuala_Lumpur)\nArrival: KCH 
- at 15:35 (Asia/Kuching)\nMalaysia time: 14-Feb-2025 13:45 to 14-Feb-2025 1
- 5:35
+SUMMARY:MH 2517: KCH → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250214T162000
+DTEND;TZID=Asia/Kuala_Lumpur:20250214T181000
+DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
+ : MH 2517\nDeparture: KCH at 16:20 (Asia/Kuching)\nArrival: KUL at 18:10 (
+ Asia/Kuala_Lumpur)\nMalaysia time: 14-Feb-2025 16:20 to 14-Feb-2025 18:10
 END:VEVENT
 BEGIN:VEVENT
-=======
->>>>>>> bb0ebbb (Initial commit - starting fresh)
 SUMMARY:MH 2517: KCH → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250214T162000
 DTEND;TZID=Asia/Kuala_Lumpur:20250214T181000
