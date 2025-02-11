@@ -108,6 +108,14 @@ DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 10
  ia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 11:15 to 15-Feb-2025 12:15
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MH 2544: KUL → KCH
+DTSTART;TZID=Asia/Kuala_Lumpur:20250218T151500
+DTEND;TZID=Asia/Kuala_Lumpur:20250218T171500
+DESCRIPTION:Duty Start: 14:00\nDuty Code: IOE/LIFUS - Functional\nFlight: 
+ MH 2544\nDeparture: KUL at 15:15 (Asia/Kuala_Lumpur)\nArrival: KCH at 17:1
+ 5 (Asia/Kuching)\nMalaysia time: 18-Feb-2025 15:15 to 18-Feb-2025 17:15
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MH 2545: KCH → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250218T180000
 DTEND;TZID=Asia/Kuala_Lumpur:20250218T200000
@@ -194,5 +202,37 @@ DTEND;TZID=Asia/Kuala_Lumpur:20250225T213500
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 72
  2\nDeparture: CGK at 18:25 (Asia/Jakarta)\nArrival: KUL at 21:35 (Asia/Kua
  la_Lumpur)\nMalaysia time: 25-Feb-2025 19:25 to 25-Feb-2025 21:35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1037: KUL → JHB
+DTSTART;TZID=Asia/Kuala_Lumpur:20250228T080500
+DTEND;TZID=Asia/Kuala_Lumpur:20250228T090000
+DESCRIPTION:Duty Start: 06:50\nDuty Code: Line Release Check\nFlight: MH 1
+ 037\nDeparture: KUL at 08:05 (Asia/Kuala_Lumpur)\nArrival: JHB at 09:00 (A
+ sia/Kuala_Lumpur)\nMalaysia time: 28-Feb-2025 08:05 to 28-Feb-2025 09:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1038: JHB → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250228T094000
+DTEND;TZID=Asia/Kuala_Lumpur:20250228T104500
+DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1038\n
+ Departure: JHB at 09:40 (Asia/Kuala_Lumpur)\nArrival: KUL at 10:45 (Asia/K
+ uala_Lumpur)\nMalaysia time: 28-Feb-2025 09:40 to 28-Feb-2025 10:45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1438: KUL → LGK
+DTSTART;TZID=Asia/Kuala_Lumpur:20250228T114500
+DTEND;TZID=Asia/Kuala_Lumpur:20250228T125500
+DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1438\n
+ Departure: KUL at 11:45 (Asia/Kuala_Lumpur)\nArrival: LGK at 12:55 (Asia/K
+ uala_Lumpur)\nMalaysia time: 28-Feb-2025 11:45 to 28-Feb-2025 12:55
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1447: LGK → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250228T133500
+DTEND;TZID=Asia/Kuala_Lumpur:20250228T145000
+DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1447\n
+ Departure: LGK at 13:35 (Asia/Kuala_Lumpur)\nArrival: KUL at 14:50 (Asia/K
+ uala_Lumpur)\nMalaysia time: 28-Feb-2025 13:35 to 28-Feb-2025 14:50
 END:VEVENT
 END:VCALENDAR
