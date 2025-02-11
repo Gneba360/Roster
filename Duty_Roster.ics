@@ -86,10 +86,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1194: KUL → PEN
 DTSTART;TZID=Asia/Kuala_Lumpur:20250213T232000
-DTEND;TZID=Asia/Kuala_Lumpur:20250214T002000
+DTEND;TZID=Asia/Kuala_Lumpur:20250214T003000
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 11
- 94\nDeparture: KUL at 23:20 (Asia/Kuala_Lumpur)\nArrival: PEN at 00:20 (As
- ia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 23:20 to 14-Feb-2025 00:20
+ 94\nDeparture: KUL at 23:20 (Asia/Kuala_Lumpur)\nArrival: PEN at 00:30 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 23:20 to 14-Feb-2025 00:30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1135: PEN → KUL
