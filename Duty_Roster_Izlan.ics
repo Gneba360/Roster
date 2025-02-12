@@ -7,7 +7,7 @@ DTSTART;TZID=Asia/Kuala_Lumpur:20250201T083000
 DTEND;TZID=Asia/Kuala_Lumpur:20250201T173000
 DESCRIPTION:Duty Start: 08:30\nDuty Code: \nFlight: 738AOP1Z\nDeparture: K
  UL at 08:30 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:30 (Asia/Kuala_Lumpur)
- \nMalaysia time: 01-Feb-2025 08:30 to 01-Feb-2025 17:30
+ \nConverted to Malaysia time: 01-Feb-2025 08:30 to 01-Feb-2025 17:30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:738AOP21: KUL → KUL
@@ -15,8 +15,8 @@ DTSTART;TZID=Asia/Kuala_Lumpur:20250203T010000
 DTEND;TZID=Asia/Kuala_Lumpur:20250203T050000
 DESCRIPTION:Duty Start: 00:00\nDuty Code: B738 CERTIFICATE OF TEST - RECUR
  RENT\, B738 Right Hand Seat\, B738 LVO\nFlight: 738AOP21\nDeparture: KUL a
- t 01:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 05:00 (Asia/Kuala_Lumpur)\nMa
- laysia time: 03-Feb-2025 01:00 to 03-Feb-2025 05:00
+ t 01:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 05:00 (Asia/Kuala_Lumpur)\nCo
+ nverted to Malaysia time: 03-Feb-2025 01:00 to 03-Feb-2025 05:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:738AOP31: KUL → KUL
@@ -24,142 +24,127 @@ DTSTART;TZID=Asia/Kuala_Lumpur:20250204T010000
 DTEND;TZID=Asia/Kuala_Lumpur:20250204T050000
 DESCRIPTION:Duty Start: 00:00\nDuty Code: B738 UPRT RECURRENT\, B738 ETOPS
   - RECURRENT\nFlight: 738AOP31\nDeparture: KUL at 01:00 (Asia/Kuala_Lumpur
- )\nArrival: KUL at 05:00 (Asia/Kuala_Lumpur)\nMalaysia time: 04-Feb-2025 0
- 1:00 to 04-Feb-2025 05:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MH 2664: KUL → TWU
-DTSTART;TZID=Asia/Kuala_Lumpur:20250210T145300
-DTEND;TZID=Asia/Kuala_Lumpur:20250210T175800
-DESCRIPTION:Duty Start: 13:30\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 2664\nDeparture: KUL at 14:53 (Asia/Kuala_Lumpur)\nArrival: TWU 
- at 17:58 (Asia/Kuching)\nMalaysia time: 10-Feb-2025 14:53 to 10-Feb-2025 1
- 7:58
+ )\nArrival: KUL at 05:00 (Asia/Kuala_Lumpur)\nConverted to Malaysia time: 
+ 04-Feb-2025 01:00 to 04-Feb-2025 05:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2665: TWU → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250210T183900
 DTEND;TZID=Asia/Kuala_Lumpur:20250210T212000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 2665\nDeparture: TWU at 18:39 (Asia/Kuching)\nArrival: KUL at 21:20 (
- Asia/Kuala_Lumpur)\nMalaysia time: 10-Feb-2025 18:39 to 10-Feb-2025 21:20
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 2665\nDeparture:
+  TWU at 18:39 (Asia/Kuching)\nArrival: KUL at 21:20 (Asia/Kuala_Lumpur)\nC
+ onverted to Malaysia time: 10-Feb-2025 18:39 to 10-Feb-2025 21:20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2536: KUL → KCH
 DTSTART;TZID=Asia/Kuala_Lumpur:20250214T134500
 DTEND;TZID=Asia/Kuala_Lumpur:20250214T153500
-DESCRIPTION:Duty Start: 12:30\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 2536\nDeparture: KUL at 13:45 (Asia/Kuala_Lumpur)\nArrival: KCH 
- at 15:35 (Asia/Kuching)\nMalaysia time: 14-Feb-2025 13:45 to 14-Feb-2025 1
- 5:35
+DESCRIPTION:Duty Start: 12:30\nDuty Code: 7382LT2X\nFlight: MH 2536\nDepar
+ ture: KUL at 13:45 (Asia/Kuala_Lumpur)\nArrival: KCH at 15:35 (Asia/Kuchin
+ g)\nConverted to Malaysia time: 14-Feb-2025 13:45 to 14-Feb-2025 15:35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2517: KCH → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250214T162000
 DTEND;TZID=Asia/Kuala_Lumpur:20250214T181000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 2517\nDeparture: KCH at 16:20 (Asia/Kuching)\nArrival: KUL at 18:10 (
- Asia/Kuala_Lumpur)\nMalaysia time: 14-Feb-2025 16:20 to 14-Feb-2025 18:10
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 2517\nDeparture:
+  KCH at 16:20 (Asia/Kuching)\nArrival: KUL at 18:10 (Asia/Kuala_Lumpur)\nC
+ onverted to Malaysia time: 14-Feb-2025 16:20 to 14-Feb-2025 18:10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 78: KUL → HKG
 DTSTART;TZID=Asia/Kuala_Lumpur:20250214T195000
 DTEND;TZID=Asia/Kuala_Lumpur:20250214T235000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 78\nDeparture: KUL at 19:50 (Asia/Kuala_Lumpur)\nArrival: HKG at 23:5
- 0 (Asia/Hong_Kong)\nMalaysia time: 14-Feb-2025 19:50 to 14-Feb-2025 23:50
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 78\nDeparture: K
+ UL at 19:50 (Asia/Kuala_Lumpur)\nArrival: HKG at 23:50 (Asia/Hong_Kong)\nC
+ onverted to Malaysia time: 14-Feb-2025 19:50 to 14-Feb-2025 23:50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 79: HKG → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250216T084500
 DTEND;TZID=Asia/Kuala_Lumpur:20250216T125000
-DESCRIPTION:Duty Start: 07:45\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 79\nDeparture: HKG at 08:45 (Asia/Hong_Kong)\nArrival: KUL at 12
- :50 (Asia/Kuala_Lumpur)\nMalaysia time: 16-Feb-2025 08:45 to 16-Feb-2025 1
- 2:50
+DESCRIPTION:Duty Start: 07:45\nDuty Code: 7382LT2X\nFlight: MH 79\nDepartu
+ re: HKG at 08:45 (Asia/Hong_Kong)\nArrival: KUL at 12:50 (Asia/Kuala_Lumpu
+ r)\nConverted to Malaysia time: 16-Feb-2025 08:45 to 16-Feb-2025 12:50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 605: KUL → SIN
 DTSTART;TZID=Asia/Kuala_Lumpur:20250216T152500
 DTEND;TZID=Asia/Kuala_Lumpur:20250216T164000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 605\nDeparture: KUL at 15:25 (Asia/Kuala_Lumpur)\nArrival: SIN at 16:
- 40 (Asia/Singapore)\nMalaysia time: 16-Feb-2025 15:25 to 16-Feb-2025 16:40
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 605\nDeparture: 
+ KUL at 15:25 (Asia/Kuala_Lumpur)\nArrival: SIN at 16:40 (Asia/Singapore)\n
+ Converted to Malaysia time: 16-Feb-2025 15:25 to 16-Feb-2025 16:40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 608: SIN → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250216T172500
 DTEND;TZID=Asia/Kuala_Lumpur:20250216T184500
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 608\nDeparture: SIN at 17:25 (Asia/Singapore)\nArrival: KUL at 18:45 
- (Asia/Kuala_Lumpur)\nMalaysia time: 16-Feb-2025 17:25 to 16-Feb-2025 18:45
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 608\nDeparture: 
+ SIN at 17:25 (Asia/Singapore)\nArrival: KUL at 18:45 (Asia/Kuala_Lumpur)\n
+ Converted to Malaysia time: 16-Feb-2025 17:25 to 16-Feb-2025 18:45
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 788: KUL → BKK
 DTSTART;TZID=Asia/Kuala_Lumpur:20250220T121500
 DTEND;TZID=Asia/Kuala_Lumpur:20250220T142500
-DESCRIPTION:Duty Start: 11:00\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 788\nDeparture: KUL at 12:15 (Asia/Kuala_Lumpur)\nArrival: BKK a
- t 13:25 (Asia/Bangkok)\nMalaysia time: 20-Feb-2025 12:15 to 20-Feb-2025 14
- :25
+DESCRIPTION:Duty Start: 11:00\nDuty Code: 7382LT2X\nFlight: MH 788\nDepart
+ ure: KUL at 12:15 (Asia/Kuala_Lumpur)\nArrival: BKK at 13:25 (Asia/Bangkok
+ )\nConverted to Malaysia time: 20-Feb-2025 12:15 to 20-Feb-2025 14:25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 789: BKK → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250220T151500
 DTEND;TZID=Asia/Kuala_Lumpur:20250220T173500
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 789\nDeparture: BKK at 14:15 (Asia/Bangkok)\nArrival: KUL at 17:35 (A
- sia/Kuala_Lumpur)\nMalaysia time: 20-Feb-2025 15:15 to 20-Feb-2025 17:35
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 789\nDeparture: 
+ BKK at 14:15 (Asia/Bangkok)\nArrival: KUL at 17:35 (Asia/Kuala_Lumpur)\nCo
+ nverted to Malaysia time: 20-Feb-2025 15:15 to 20-Feb-2025 17:35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2544: KUL → KCH
 DTSTART;TZID=Asia/Kuala_Lumpur:20250220T194000
 DTEND;TZID=Asia/Kuala_Lumpur:20250220T214000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 2544\nDeparture: KUL at 19:40 (Asia/Kuala_Lumpur)\nArrival: KCH at 21
- :40 (Asia/Kuching)\nMalaysia time: 20-Feb-2025 19:40 to 20-Feb-2025 21:40
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 2544\nDeparture:
+  KUL at 19:40 (Asia/Kuala_Lumpur)\nArrival: KCH at 21:40 (Asia/Kuching)\nC
+ onverted to Malaysia time: 20-Feb-2025 19:40 to 20-Feb-2025 21:40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2597: KCH → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250221T210000
 DTEND;TZID=Asia/Kuala_Lumpur:20250221T225000
-DESCRIPTION:Duty Start: 20:00\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 2597\nDeparture: KCH at 21:00 (Asia/Kuching)\nArrival: KUL at 22
- :50 (Asia/Kuala_Lumpur)\nMalaysia time: 21-Feb-2025 21:00 to 21-Feb-2025 2
- 2:50
+DESCRIPTION:Duty Start: 20:00\nDuty Code: 7382LT2X\nFlight: MH 2597\nDepar
+ ture: KCH at 21:00 (Asia/Kuching)\nArrival: KUL at 22:50 (Asia/Kuala_Lumpu
+ r)\nConverted to Malaysia time: 21-Feb-2025 21:00 to 21-Feb-2025 22:50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2520: KUL → KCH
 DTSTART;TZID=Asia/Kuala_Lumpur:20250225T105500
 DTEND;TZID=Asia/Kuala_Lumpur:20250225T124500
-DESCRIPTION:Duty Start: 09:40\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 2520\nDeparture: KUL at 10:55 (Asia/Kuala_Lumpur)\nArrival: KCH 
- at 12:45 (Asia/Kuching)\nMalaysia time: 25-Feb-2025 10:55 to 25-Feb-2025 1
- 2:45
+DESCRIPTION:Duty Start: 09:40\nDuty Code: 7382LT2X\nFlight: MH 2520\nDepar
+ ture: KUL at 10:55 (Asia/Kuala_Lumpur)\nArrival: KCH at 12:45 (Asia/Kuchin
+ g)\nConverted to Malaysia time: 25-Feb-2025 10:55 to 25-Feb-2025 12:45
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2513: KCH → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250225T132500
 DTEND;TZID=Asia/Kuala_Lumpur:20250225T151500
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 2513\nDeparture: KCH at 13:25 (Asia/Kuching)\nArrival: KUL at 15:15 (
- Asia/Kuala_Lumpur)\nMalaysia time: 25-Feb-2025 13:25 to 25-Feb-2025 15:15
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 2513\nDeparture:
+  KCH at 13:25 (Asia/Kuching)\nArrival: KUL at 15:15 (Asia/Kuala_Lumpur)\nC
+ onverted to Malaysia time: 25-Feb-2025 13:25 to 25-Feb-2025 15:15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 804: KUL → MNL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250225T173500
 DTEND;TZID=Asia/Kuala_Lumpur:20250225T213000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - With Safety Pilot\nFlight
- : MH 804\nDeparture: KUL at 17:35 (Asia/Kuala_Lumpur)\nArrival: MNL at 21:
- 30 (Asia/Manila)\nMalaysia time: 25-Feb-2025 17:35 to 25-Feb-2025 21:30
+DESCRIPTION:Duty Start: \nDuty Code: 7382LT2X\nFlight: MH 804\nDeparture: 
+ KUL at 17:35 (Asia/Kuala_Lumpur)\nArrival: MNL at 21:30 (Asia/Manila)\nCon
+ verted to Malaysia time: 25-Feb-2025 17:35 to 25-Feb-2025 21:30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 705: MNL → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250226T172000
 DTEND;TZID=Asia/Kuala_Lumpur:20250226T212500
-DESCRIPTION:Duty Start: 16:20\nDuty Code: IOE/LIFUS - With Safety Pilot\nF
- light: MH 705\nDeparture: MNL at 17:20 (Asia/Manila)\nArrival: KUL at 21:2
- 5 (Asia/Kuala_Lumpur)\nMalaysia time: 26-Feb-2025 17:20 to 26-Feb-2025 21:
- 25
+DESCRIPTION:Duty Start: 16:20\nDuty Code: 7382LT2X\nFlight: MH 705\nDepart
+ ure: MNL at 17:20 (Asia/Manila)\nArrival: KUL at 21:25 (Asia/Kuala_Lumpur)
+ \nConverted to Malaysia time: 26-Feb-2025 17:20 to 26-Feb-2025 21:25
 END:VEVENT
 END:VCALENDAR
