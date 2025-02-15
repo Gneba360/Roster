@@ -4,11 +4,11 @@ PRODID:-//Duty Roster Calendar//EN
 BEGIN:VEVENT
 SUMMARY:MH 1326: KUL → TGG
 DTSTART;TZID=Asia/Kuala_Lumpur:20250204T072000
-DTEND;TZID=Asia/Kuala_Lumpur:20250204T081800
+DTEND;TZID=Asia/Kuala_Lumpur:20250204T081900
 DESCRIPTION:Duty Start: 06:05\nDuty Code: IOE/LIFUS - Functional\nFlight: 
  MH 1326\nDeparture: KUL at 07:20 (Asia/Kuala_Lumpur)\nArrival: TGG at 08:1
- 8 (Asia/Kuala_Lumpur)\nMalaysia time: 04-Feb-2025 07:20 to 04-Feb-2025 08:
- 18
+ 9 (Asia/Kuala_Lumpur)\nMalaysia time: 04-Feb-2025 07:20 to 04-Feb-2025 08:
+ 19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1327: TGG → KUL
