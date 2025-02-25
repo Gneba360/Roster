@@ -4,11 +4,11 @@ PRODID:-//Duty Roster Calendar//EN
 BEGIN:VEVENT
 SUMMARY:MH 1326: KUL → TGG
 DTSTART;TZID=Asia/Kuala_Lumpur:20250204T072000
-DTEND;TZID=Asia/Kuala_Lumpur:20250204T081900
+DTEND;TZID=Asia/Kuala_Lumpur:20250204T081800
 DESCRIPTION:Duty Start: 06:05\nDuty Code: IOE/LIFUS - Functional\nFlight: 
  MH 1326\nDeparture: KUL at 07:20 (Asia/Kuala_Lumpur)\nArrival: TGG at 08:1
- 9 (Asia/Kuala_Lumpur)\nMalaysia time: 04-Feb-2025 07:20 to 04-Feb-2025 08:
- 19
+ 8 (Asia/Kuala_Lumpur)\nMalaysia time: 04-Feb-2025 07:20 to 04-Feb-2025 08:
+ 18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1327: TGG → KUL
@@ -71,184 +71,455 @@ DESCRIPTION:Duty Start: 04:45\nDuty Code: IOE/LIFUS - Functional\nFlight:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1446: KUL → LGK
-DTSTART;TZID=Asia/Kuala_Lumpur:20250213T192000
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T191900
 DTEND;TZID=Asia/Kuala_Lumpur:20250213T202500
 DESCRIPTION:Duty Start: 18:05\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 1446\nDeparture: KUL at 19:20 (Asia/Kuala_Lumpur)\nArrival: LGK at 20:2
- 5 (Asia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 19:20 to 13-Feb-2025 20:
+ MH 1446\nDeparture: KUL at 19:19 (Asia/Kuala_Lumpur)\nArrival: LGK at 20:2
+ 5 (Asia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 19:19 to 13-Feb-2025 20:
  25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1455: LGK → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250213T210000
-DTEND;TZID=Asia/Kuala_Lumpur:20250213T222000
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T205800
+DTEND;TZID=Asia/Kuala_Lumpur:20250213T221100
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 14
- 55\nDeparture: LGK at 21:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 22:20 (As
- ia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 21:00 to 13-Feb-2025 22:20
+ 55\nDeparture: LGK at 20:58 (Asia/Kuala_Lumpur)\nArrival: KUL at 22:11 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 20:58 to 13-Feb-2025 22:11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1194: KUL → PEN
-DTSTART;TZID=Asia/Kuala_Lumpur:20250213T232000
-DTEND;TZID=Asia/Kuala_Lumpur:20250214T002000
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T231800
+DTEND;TZID=Asia/Kuala_Lumpur:20250214T001500
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 11
- 94\nDeparture: KUL at 23:20 (Asia/Kuala_Lumpur)\nArrival: PEN at 00:20 (As
- ia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 23:20 to 14-Feb-2025 00:20
+ 94\nDeparture: KUL at 23:18 (Asia/Kuala_Lumpur)\nArrival: PEN at 00:15 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 13-Feb-2025 23:18 to 14-Feb-2025 00:15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1135: PEN → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250215T072000
-DTEND;TZID=Asia/Kuala_Lumpur:20250215T082500
+DTSTART;TZID=Asia/Kuala_Lumpur:20250215T071500
+DTEND;TZID=Asia/Kuala_Lumpur:20250215T081900
 DESCRIPTION:Duty Start: 06:20\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 1135\nDeparture: PEN at 07:20 (Asia/Kuala_Lumpur)\nArrival: KUL at 08:2
- 5 (Asia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 07:20 to 15-Feb-2025 08:
- 25
+ MH 1135\nDeparture: PEN at 07:15 (Asia/Kuala_Lumpur)\nArrival: KUL at 08:1
+ 9 (Asia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 07:15 to 15-Feb-2025 08:
+ 19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1051: KUL → JHB
-DTSTART;TZID=Asia/Kuala_Lumpur:20250215T093000
-DTEND;TZID=Asia/Kuala_Lumpur:20250215T103500
+DTSTART;TZID=Asia/Kuala_Lumpur:20250215T095100
+DTEND;TZID=Asia/Kuala_Lumpur:20250215T105600
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 10
- 51\nDeparture: KUL at 09:30 (Asia/Kuala_Lumpur)\nArrival: JHB at 10:35 (As
- ia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 09:30 to 15-Feb-2025 10:35
+ 51\nDeparture: KUL at 09:51 (Asia/Kuala_Lumpur)\nArrival: JHB at 10:56 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 09:51 to 15-Feb-2025 10:56
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 1052: JHB → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250215T111500
-DTEND;TZID=Asia/Kuala_Lumpur:20250215T121500
+DTSTART;TZID=Asia/Kuala_Lumpur:20250215T113500
+DTEND;TZID=Asia/Kuala_Lumpur:20250215T122600
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 10
- 52\nDeparture: JHB at 11:15 (Asia/Kuala_Lumpur)\nArrival: KUL at 12:15 (As
- ia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 11:15 to 15-Feb-2025 12:15
+ 52\nDeparture: JHB at 11:35 (Asia/Kuala_Lumpur)\nArrival: KUL at 12:26 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 15-Feb-2025 11:35 to 15-Feb-2025 12:26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2544: KUL → KCH
 DTSTART;TZID=Asia/Kuala_Lumpur:20250218T151500
-DTEND;TZID=Asia/Kuala_Lumpur:20250218T171500
+DTEND;TZID=Asia/Kuala_Lumpur:20250218T170100
 DESCRIPTION:Duty Start: 14:00\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 2544\nDeparture: KUL at 15:15 (Asia/Kuala_Lumpur)\nArrival: KCH at 17:1
- 5 (Asia/Kuala_Lumpur)\nMalaysia time: 18-Feb-2025 15:15 to 18-Feb-2025 17:
- 15
+ MH 2544\nDeparture: KUL at 15:15 (Asia/Kuala_Lumpur)\nArrival: KCH at 17:0
+ 1 (Asia/Kuala_Lumpur)\nMalaysia time: 18-Feb-2025 15:15 to 18-Feb-2025 17:
+ 01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2545: KCH → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250218T180000
-DTEND;TZID=Asia/Kuala_Lumpur:20250218T200000
+DTSTART;TZID=Asia/Kuala_Lumpur:20250218T175800
+DTEND;TZID=Asia/Kuala_Lumpur:20250218T195000
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 25
- 45\nDeparture: KCH at 18:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 20:00 (As
- ia/Kuala_Lumpur)\nMalaysia time: 18-Feb-2025 18:00 to 18-Feb-2025 20:00
+ 45\nDeparture: KCH at 17:58 (Asia/Kuala_Lumpur)\nArrival: KUL at 19:50 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 18-Feb-2025 17:58 to 18-Feb-2025 19:50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2628: KUL → BKI
-DTSTART;TZID=Asia/Kuala_Lumpur:20250218T210000
-DTEND;TZID=Asia/Kuala_Lumpur:20250218T234000
+DTSTART;TZID=Asia/Kuala_Lumpur:20250218T211000
+DTEND;TZID=Asia/Kuala_Lumpur:20250218T235800
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 26
- 28\nDeparture: KUL at 21:00 (Asia/Kuala_Lumpur)\nArrival: BKI at 23:40 (As
- ia/Kuala_Lumpur)\nMalaysia time: 18-Feb-2025 21:00 to 18-Feb-2025 23:40
+ 28\nDeparture: KUL at 21:10 (Asia/Kuala_Lumpur)\nArrival: BKI at 23:58 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 18-Feb-2025 21:10 to 18-Feb-2025 23:58
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2645: BKI → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250219T180000
-DTEND;TZID=Asia/Kuala_Lumpur:20250219T204000
+DTSTART;TZID=Asia/Kuala_Lumpur:20250219T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250219T215000
 DESCRIPTION:Duty Start: 17:00\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 2645\nDeparture: BKI at 18:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 20:4
- 0 (Asia/Kuala_Lumpur)\nMalaysia time: 19-Feb-2025 18:00 to 19-Feb-2025 20:
- 40
+ MH 2645\nDeparture: BKI at 19:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 21:5
+ 0 (Asia/Kuala_Lumpur)\nMalaysia time: 19-Feb-2025 19:00 to 19-Feb-2025 21:
+ 50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2626: KUL → BKI
-DTSTART;TZID=Asia/Kuala_Lumpur:20250219T221500
-DTEND;TZID=Asia/Kuala_Lumpur:20250220T005500
+DTSTART;TZID=Asia/Kuala_Lumpur:20250219T224200
+DTEND;TZID=Asia/Kuala_Lumpur:20250220T011800
 DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 26
- 26\nDeparture: KUL at 22:15 (Asia/Kuala_Lumpur)\nArrival: BKI at 00:55 (As
- ia/Kuala_Lumpur)\nMalaysia time: 19-Feb-2025 22:15 to 20-Feb-2025 00:55
+ 26\nDeparture: KUL at 22:42 (Asia/Kuala_Lumpur)\nArrival: BKI at 01:18 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 19-Feb-2025 22:42 to 20-Feb-2025 01:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MH 2631: BKI → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250220T190500
-DTEND;TZID=Asia/Kuala_Lumpur:20250220T214500
+DTSTART;TZID=Asia/Kuala_Lumpur:20250220T194600
+DTEND;TZID=Asia/Kuala_Lumpur:20250220T222400
 DESCRIPTION:Duty Start: 18:05\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 2631\nDeparture: BKI at 19:05 (Asia/Kuala_Lumpur)\nArrival: KUL at 21:4
- 5 (Asia/Kuala_Lumpur)\nMalaysia time: 20-Feb-2025 19:05 to 20-Feb-2025 21:
- 45
+ MH 2631\nDeparture: BKI at 19:46 (Asia/Kuala_Lumpur)\nArrival: KUL at 22:2
+ 4 (Asia/Kuala_Lumpur)\nMalaysia time: 20-Feb-2025 19:46 to 20-Feb-2025 22:
+ 24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 2716: KUL → SBW
-DTSTART;TZID=Asia/Kuala_Lumpur:20250224T082500
-DTEND;TZID=Asia/Kuala_Lumpur:20250224T103000
-DESCRIPTION:Duty Start: 07:10\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 2716\nDeparture: KUL at 08:25 (Asia/Kuala_Lumpur)\nArrival: SBW at 10:3
- 0 (Asia/Kuala_Lumpur)\nMalaysia time: 24-Feb-2025 08:25 to 24-Feb-2025 10:
- 30
+SUMMARY:MH 1268: KUL → KUA
+DTSTART;TZID=Asia/Kuala_Lumpur:20250222T091900
+DTEND;TZID=Asia/Kuala_Lumpur:20250222T101100
+DESCRIPTION:Duty Start: 08:00\nDuty Code: Line Release Check\nFlight: MH 1
+ 268\nDeparture: KUL at 09:19 (Asia/Kuala_Lumpur)\nArrival: KUA at 10:11 (A
+ sia/Kuala_Lumpur)\nMalaysia time: 22-Feb-2025 09:19 to 22-Feb-2025 10:11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 2715: SBW → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250224T111500
-DTEND;TZID=Asia/Kuala_Lumpur:20250224T132000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 27
- 15\nDeparture: SBW at 11:15 (Asia/Kuala_Lumpur)\nArrival: KUL at 13:20 (As
- ia/Kuala_Lumpur)\nMalaysia time: 24-Feb-2025 11:15 to 24-Feb-2025 13:20
+SUMMARY:MH 1269: KUA → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250222T104600
+DTEND;TZID=Asia/Kuala_Lumpur:20250222T114200
+DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1269\n
+ Departure: KUA at 10:46 (Asia/Kuala_Lumpur)\nArrival: KUL at 11:42 (Asia/K
+ uala_Lumpur)\nMalaysia time: 22-Feb-2025 10:46 to 22-Feb-2025 11:42
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 782: KUL → BKK
-DTSTART;TZID=Asia/Kuala_Lumpur:20250224T145000
-DTEND;TZID=Asia/Kuala_Lumpur:20250224T170500
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 78
- 2\nDeparture: KUL at 14:50 (Asia/Kuala_Lumpur)\nArrival: BKK at 16:05 (Asi
- a/Bangkok)\nMalaysia time: 24-Feb-2025 14:50 to 24-Feb-2025 17:05
+SUMMARY:MH 2614: KUL → BKI
+DTSTART;TZID=Asia/Kuala_Lumpur:20250222T123800
+DTEND;TZID=Asia/Kuala_Lumpur:20250222T152000
+DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 2614\n
+ Departure: KUL at 12:38 (Asia/Kuala_Lumpur)\nArrival: BKI at 15:20 (Asia/K
+ uala_Lumpur)\nMalaysia time: 22-Feb-2025 12:38 to 22-Feb-2025 15:20
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 785: BKK → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250225T120500
-DTEND;TZID=Asia/Kuala_Lumpur:20250225T142500
-DESCRIPTION:Duty Start: 10:05\nDuty Code: IOE/LIFUS - Functional\nFlight: 
- MH 785\nDeparture: BKK at 11:05 (Asia/Bangkok)\nArrival: KUL at 14:25 (Asi
- a/Kuala_Lumpur)\nMalaysia time: 25-Feb-2025 12:05 to 25-Feb-2025 14:25
+SUMMARY:MH 2607: BKI → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250222T161000
+DTEND;TZID=Asia/Kuala_Lumpur:20250222T184100
+DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 2607\n
+ Departure: BKI at 16:10 (Asia/Kuala_Lumpur)\nArrival: KUL at 18:41 (Asia/K
+ uala_Lumpur)\nMalaysia time: 22-Feb-2025 16:10 to 22-Feb-2025 18:41
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 723: KUL → CGK
-DTSTART;TZID=Asia/Kuala_Lumpur:20250225T162000
-DTEND;TZID=Asia/Kuala_Lumpur:20250225T183000
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 72
- 3\nDeparture: KUL at 16:20 (Asia/Kuala_Lumpur)\nArrival: CGK at 17:30 (Asi
- a/Jakarta)\nMalaysia time: 25-Feb-2025 16:20 to 25-Feb-2025 18:30
+SUMMARY:B738INTV: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250224T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20250224T170000
+DESCRIPTION:Duty Start: 09:00\nDuty Code: B738RVSM\, 738-F\nFlight: B738IN
+ TV\nDeparture: KUL at 09:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:00 (As
+ ia/Kuala_Lumpur)\nMalaysia time: 24-Feb-2025 09:00 to 24-Feb-2025 17:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 722: CGK → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250225T192500
-DTEND;TZID=Asia/Kuala_Lumpur:20250225T213500
-DESCRIPTION:Duty Start: \nDuty Code: IOE/LIFUS - Functional\nFlight: MH 72
- 2\nDeparture: CGK at 18:25 (Asia/Jakarta)\nArrival: KUL at 21:35 (Asia/Kua
- la_Lumpur)\nMalaysia time: 25-Feb-2025 19:25 to 25-Feb-2025 21:35
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250225T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250225T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 25-Feb-2025 06:00 to 25-Feb-2025 16:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 1037: KUL → JHB
-DTSTART;TZID=Asia/Kuala_Lumpur:20250228T080500
-DTEND;TZID=Asia/Kuala_Lumpur:20250228T090000
-DESCRIPTION:Duty Start: 06:50\nDuty Code: Line Release Check\nFlight: MH 1
- 037\nDeparture: KUL at 08:05 (Asia/Kuala_Lumpur)\nArrival: JHB at 09:00 (A
- sia/Kuala_Lumpur)\nMalaysia time: 28-Feb-2025 08:05 to 28-Feb-2025 09:00
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250226T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250226T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 26-Feb-2025 06:00 to 26-Feb-2025 16:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 1038: JHB → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250228T094000
-DTEND;TZID=Asia/Kuala_Lumpur:20250228T104500
-DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1038\n
- Departure: JHB at 09:40 (Asia/Kuala_Lumpur)\nArrival: KUL at 10:45 (Asia/K
- uala_Lumpur)\nMalaysia time: 28-Feb-2025 09:40 to 28-Feb-2025 10:45
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250227T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250227T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 27-Feb-2025 06:00 to 27-Feb-2025 16:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 1438: KUL → LGK
-DTSTART;TZID=Asia/Kuala_Lumpur:20250228T114500
-DTEND;TZID=Asia/Kuala_Lumpur:20250228T125500
-DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1438\n
- Departure: KUL at 11:45 (Asia/Kuala_Lumpur)\nArrival: LGK at 12:55 (Asia/K
- uala_Lumpur)\nMalaysia time: 28-Feb-2025 11:45 to 28-Feb-2025 12:55
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250302T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250302T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 02-Mar-2025 06:00 to 02-Mar-2025 16:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 1447: LGK → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250228T133500
-DTEND;TZID=Asia/Kuala_Lumpur:20250228T145000
-DESCRIPTION:Duty Start: \nDuty Code: Line Release Check\nFlight: MH 1447\n
- Departure: LGK at 13:35 (Asia/Kuala_Lumpur)\nArrival: KUL at 14:50 (Asia/K
- uala_Lumpur)\nMalaysia time: 28-Feb-2025 13:35 to 28-Feb-2025 14:50
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250304T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250304T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 04-Mar-2025 06:00 to 04-Mar-2025 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250305T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250305T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 05-Mar-2025 06:00 to 05-Mar-2025 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250306T060000
+DTEND;TZID=Asia/Kuala_Lumpur:20250306T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 06:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 06-Mar-2025 06:00 to 06-Mar-2025 16:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 772: KUL → CNX
+DTSTART;TZID=Asia/Kuala_Lumpur:20250310T094500
+DTEND;TZID=Asia/Kuala_Lumpur:20250310T122500
+DESCRIPTION:Duty Start: 08:30\nDuty Code: \nFlight: MH 772\nDeparture: KUL
+  at 09:45 (Asia/Kuala_Lumpur)\nArrival: CNX at 11:25 (Asia/Bangkok)\nMalay
+ sia time: 10-Mar-2025 09:45 to 10-Mar-2025 12:25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 773: CNX → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250310T132500
+DTEND;TZID=Asia/Kuala_Lumpur:20250310T163500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 773\nDeparture: CNX at 1
+ 2:25 (Asia/Bangkok)\nArrival: KUL at 16:35 (Asia/Kuala_Lumpur)\nMalaysia t
+ ime: 10-Mar-2025 13:25 to 10-Mar-2025 16:35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2528: KUL → KCH
+DTSTART;TZID=Asia/Kuala_Lumpur:20250310T182000
+DTEND;TZID=Asia/Kuala_Lumpur:20250310T201500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2528\nDeparture: KUL at 
+ 18:20 (Asia/Kuala_Lumpur)\nArrival: KCH at 20:15 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 10-Mar-2025 18:20 to 10-Mar-2025 20:15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2521: KCH → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250311T151500
+DTEND;TZID=Asia/Kuala_Lumpur:20250311T170500
+DESCRIPTION:Duty Start: 14:15\nDuty Code: \nFlight: MH 2521\nDeparture: KC
+ H at 15:15 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:05 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 11-Mar-2025 15:15 to 11-Mar-2025 17:05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2638: KUL → BKI
+DTSTART;TZID=Asia/Kuala_Lumpur:20250311T185500
+DTEND;TZID=Asia/Kuala_Lumpur:20250311T213500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2638\nDeparture: KUL at 
+ 18:55 (Asia/Kuala_Lumpur)\nArrival: BKI at 21:35 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 11-Mar-2025 18:55 to 11-Mar-2025 21:35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2639: BKI → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250311T222000
+DTEND;TZID=Asia/Kuala_Lumpur:20250312T010500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2639\nDeparture: BKI at 
+ 22:20 (Asia/Kuala_Lumpur)\nArrival: KUL at 01:05 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 11-Mar-2025 22:20 to 12-Mar-2025 01:05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 179: KUL → CMB
+DTSTART;TZID=Asia/Kuala_Lumpur:20250312T223500
+DTEND;TZID=Asia/Kuala_Lumpur:20250313T020500
+DESCRIPTION:Duty Start: 21:20\nDuty Code: \nFlight: MH 179\nDeparture: KUL
+  at 22:35 (Asia/Kuala_Lumpur)\nArrival: CMB at 23:35 (Asia/Colombo)\nMalay
+ sia time: 12-Mar-2025 22:35 to 13-Mar-2025 02:05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 178: CMB → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250313T031000
+DTEND;TZID=Asia/Kuala_Lumpur:20250313T065000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 178\nDeparture: CMB at 0
+ 0:40 (Asia/Colombo)\nArrival: KUL at 06:50 (Asia/Kuala_Lumpur)\nMalaysia t
+ ime: 13-Mar-2025 03:10 to 13-Mar-2025 06:50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1152: KUL → PEN
+DTSTART;TZID=Asia/Kuala_Lumpur:20250316T194000
+DTEND;TZID=Asia/Kuala_Lumpur:20250316T204000
+DESCRIPTION:Duty Start: 18:25\nDuty Code: \nFlight: MH 1152\nDeparture: KU
+ L at 19:40 (Asia/Kuala_Lumpur)\nArrival: PEN at 20:40 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 16-Mar-2025 19:40 to 16-Mar-2025 20:40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1155: PEN → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250316T212000
+DTEND;TZID=Asia/Kuala_Lumpur:20250316T223000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1155\nDeparture: PEN at 
+ 21:20 (Asia/Kuala_Lumpur)\nArrival: KUL at 22:30 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 16-Mar-2025 21:20 to 16-Mar-2025 22:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2646: KUL → BKI
+DTSTART;TZID=Asia/Kuala_Lumpur:20250318T111500
+DTEND;TZID=Asia/Kuala_Lumpur:20250318T135500
+DESCRIPTION:Duty Start: 10:00\nDuty Code: \nFlight: MH 2646\nDeparture: KU
+ L at 11:15 (Asia/Kuala_Lumpur)\nArrival: BKI at 13:55 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 18-Mar-2025 11:15 to 18-Mar-2025 13:55
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2641: BKI → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250318T144000
+DTEND;TZID=Asia/Kuala_Lumpur:20250318T172000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2641\nDeparture: BKI at 
+ 14:40 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:20 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 18-Mar-2025 14:40 to 18-Mar-2025 17:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2528: KUL → KCH
+DTSTART;TZID=Asia/Kuala_Lumpur:20250318T182000
+DTEND;TZID=Asia/Kuala_Lumpur:20250318T201500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2528\nDeparture: KUL at 
+ 18:20 (Asia/Kuala_Lumpur)\nArrival: KCH at 20:15 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 18-Mar-2025 18:20 to 18-Mar-2025 20:15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2543: KCH → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250319T102500
+DTEND;TZID=Asia/Kuala_Lumpur:20250319T121500
+DESCRIPTION:Duty Start: 09:25\nDuty Code: \nFlight: MH 2543\nDeparture: KC
+ H at 10:25 (Asia/Kuala_Lumpur)\nArrival: KUL at 12:15 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 19-Mar-2025 10:25 to 19-Mar-2025 12:15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 758: KUL → SGN
+DTSTART;TZID=Asia/Kuala_Lumpur:20250319T144000
+DTEND;TZID=Asia/Kuala_Lumpur:20250319T164000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 758\nDeparture: KUL at 1
+ 4:40 (Asia/Kuala_Lumpur)\nArrival: SGN at 15:40 (Asia/Ho_Chi_Minh)\nMalays
+ ia time: 19-Mar-2025 14:40 to 19-Mar-2025 16:40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 759: SGN → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250319T174000
+DTEND;TZID=Asia/Kuala_Lumpur:20250319T194500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 759\nDeparture: SGN at 1
+ 6:40 (Asia/Ho_Chi_Minh)\nArrival: KUL at 19:45 (Asia/Kuala_Lumpur)\nMalays
+ ia time: 19-Mar-2025 17:40 to 19-Mar-2025 19:45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250321T030000
+DTEND;TZID=Asia/Kuala_Lumpur:20250321T130000
+DESCRIPTION:Duty Start: 03:00\nDuty Code: \nFlight: S1-738\nDeparture: KUL
+  at 03:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 13:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 21-Mar-2025 03:00 to 21-Mar-2025 13:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S1-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250322T030000
+DTEND;TZID=Asia/Kuala_Lumpur:20250322T130000
+DESCRIPTION:Duty Start: 03:00\nDuty Code: \nFlight: S1-738\nDeparture: KUL
+  at 03:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 13:00 (Asia/Kuala_Lumpur)\n
+ Malaysia time: 22-Mar-2025 03:00 to 22-Mar-2025 13:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1426: KUL → KBR
+DTSTART;TZID=Asia/Kuala_Lumpur:20250325T130000
+DTEND;TZID=Asia/Kuala_Lumpur:20250325T140500
+DESCRIPTION:Duty Start: 11:45\nDuty Code: \nFlight: MH 1426\nDeparture: KU
+ L at 13:00 (Asia/Kuala_Lumpur)\nArrival: KBR at 14:05 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 25-Mar-2025 13:00 to 25-Mar-2025 14:05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1427: KBR → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250325T144500
+DTEND;TZID=Asia/Kuala_Lumpur:20250325T155500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1427\nDeparture: KBR at 
+ 14:45 (Asia/Kuala_Lumpur)\nArrival: KUL at 15:55 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 25-Mar-2025 14:45 to 25-Mar-2025 15:55
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 804: KUL → MNL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250325T173500
+DTEND;TZID=Asia/Kuala_Lumpur:20250325T213000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 804\nDeparture: KUL at 1
+ 7:35 (Asia/Kuala_Lumpur)\nArrival: MNL at 21:30 (Asia/Manila)\nMalaysia ti
+ me: 25-Mar-2025 17:35 to 25-Mar-2025 21:30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 705: MNL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250326T172000
+DTEND;TZID=Asia/Kuala_Lumpur:20250326T212500
+DESCRIPTION:Duty Start: 16:20\nDuty Code: \nFlight: MH 705\nDeparture: MNL
+  at 17:20 (Asia/Manila)\nArrival: KUL at 21:25 (Asia/Kuala_Lumpur)\nMalays
+ ia time: 26-Mar-2025 17:20 to 26-Mar-2025 21:25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2542: KUL → KCH
+DTSTART;TZID=Asia/Kuala_Lumpur:20250328T075000
+DTEND;TZID=Asia/Kuala_Lumpur:20250328T094000
+DESCRIPTION:Duty Start: 06:35\nDuty Code: \nFlight: MH 2542\nDeparture: KU
+ L at 07:50 (Asia/Kuala_Lumpur)\nArrival: KCH at 09:40 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 28-Mar-2025 07:50 to 28-Mar-2025 09:40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2547: KCH → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250329T054500
+DTEND;TZID=Asia/Kuala_Lumpur:20250329T073500
+DESCRIPTION:Duty Start: 04:45\nDuty Code: \nFlight: MH 2547\nDeparture: KC
+ H at 05:45 (Asia/Kuala_Lumpur)\nArrival: KUL at 07:35 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 29-Mar-2025 05:45 to 29-Mar-2025 07:35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 611: KUL → SIN
+DTSTART;TZID=Asia/Kuala_Lumpur:20250329T091000
+DTEND;TZID=Asia/Kuala_Lumpur:20250329T102000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 611\nDeparture: KUL at 0
+ 9:10 (Asia/Kuala_Lumpur)\nArrival: SIN at 10:20 (Asia/Singapore)\nMalaysia
+  time: 29-Mar-2025 09:10 to 29-Mar-2025 10:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 614: SIN → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250329T110500
+DTEND;TZID=Asia/Kuala_Lumpur:20250329T122500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 614\nDeparture: SIN at 1
+ 1:05 (Asia/Singapore)\nArrival: KUL at 12:25 (Asia/Kuala_Lumpur)\nMalaysia
+  time: 29-Mar-2025 11:05 to 29-Mar-2025 12:25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1057: KUL → JHB
+DTSTART;TZID=Asia/Kuala_Lumpur:20250330T180500
+DTEND;TZID=Asia/Kuala_Lumpur:20250330T190500
+DESCRIPTION:Duty Start: 16:50\nDuty Code: \nFlight: MH 1057\nDeparture: KU
+ L at 18:05 (Asia/Kuala_Lumpur)\nArrival: JHB at 19:05 (Asia/Kuala_Lumpur)\
+ nMalaysia time: 30-Mar-2025 18:05 to 30-Mar-2025 19:05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1058: JHB → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250330T194500
+DTEND;TZID=Asia/Kuala_Lumpur:20250330T204500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1058\nDeparture: JHB at 
+ 19:45 (Asia/Kuala_Lumpur)\nArrival: KUL at 20:45 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 30-Mar-2025 19:45 to 30-Mar-2025 20:45
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 609: KUL → SIN
+DTSTART;TZID=Asia/Kuala_Lumpur:20250330T230500
+DTEND;TZID=Asia/Kuala_Lumpur:20250330T001000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 609\nDeparture: KUL at 2
+ 3:05 (Asia/Kuala_Lumpur)\nArrival: SIN at 00:10 (Asia/Singapore)\nMalaysia
+  time: 30-Mar-2025 23:05 to 30-Mar-2025 00:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 624: SIN → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250331T153500
+DTEND;TZID=Asia/Kuala_Lumpur:20250331T165500
+DESCRIPTION:Duty Start: 14:35\nDuty Code: \nFlight: MH 624\nDeparture: SIN
+  at 15:35 (Asia/Singapore)\nArrival: KUL at 16:55 (Asia/Kuala_Lumpur)\nMal
+ aysia time: 31-Mar-2025 15:35 to 31-Mar-2025 16:55
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1276: KUL → KUA
+DTSTART;TZID=Asia/Kuala_Lumpur:20250331T182500
+DTEND;TZID=Asia/Kuala_Lumpur:20250331T191500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1276\nDeparture: KUL at 
+ 18:25 (Asia/Kuala_Lumpur)\nArrival: KUA at 19:15 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 31-Mar-2025 18:25 to 31-Mar-2025 19:15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 1281: KUA → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250331T195500
+DTEND;TZID=Asia/Kuala_Lumpur:20250331T205500
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1281\nDeparture: KUA at 
+ 19:55 (Asia/Kuala_Lumpur)\nArrival: KUL at 20:55 (Asia/Kuala_Lumpur)\nMala
+ ysia time: 31-Mar-2025 19:55 to 31-Mar-2025 20:55
 END:VEVENT
 END:VCALENDAR
