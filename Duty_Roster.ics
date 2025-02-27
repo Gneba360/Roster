@@ -515,22 +515,6 @@ DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1281\nDeparture: KUA at
  ysia time: 31-Mar-2025 19:55 to 31-Mar-2025 20:55
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S2-738: KUL → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250304T070000
-DTEND;TZID=Asia/Kuala_Lumpur:20250304T160000
-DESCRIPTION:Duty Start: 06:00:00\nDuty Code: \nFlight: S2-738\nDeparture: 
- KUL at 07:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur
- )\nMalaysia time: 04-Mar-2025 07:00 to 04-Mar-2025 16:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S2-738: KUL → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250305T070000
-DTEND;TZID=Asia/Kuala_Lumpur:20250305T160000
-DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
-  at 07:00 (Asia/Kuala_Lumpur)\nArrival: KUL at 16:00 (Asia/Kuala_Lumpur)\n
- Malaysia time: 05-Mar-2025 07:00 to 05-Mar-2025 16:00
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MH 609: KUL → SIN
 DTSTART;TZID=Asia/Kuala_Lumpur:20250330T230500
 DTEND;TZID=Asia/Kuala_Lumpur:20250331T001000
