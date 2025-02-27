@@ -546,4 +546,20 @@ DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 609\nDeparture: KUL at 2
  3:05 (UTC+8:00)\nArrival: SIN at 00:10 (UTC+8:00)\nMalaysia time: 30-Mar-2
  025 23:05 to 31-Mar-2025 00:10
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250304T070000
+DTEND;TZID=Asia/Kuala_Lumpur:20250304T180000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 07:00 (UTC+8:00)\nArrival: KUL at 18:00 (UTC+8:00)\nMalaysia time: 04-
+ Mar-2025 07:00 to 04-Mar-2025 18:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S2-738: KUL → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250306T070000
+DTEND;TZID=Asia/Kuala_Lumpur:20250306T160000
+DESCRIPTION:Duty Start: 06:00\nDuty Code: \nFlight: S2-738\nDeparture: KUL
+  at 07:00 (UTC+8:00)\nArrival: KUL at 16:00 (UTC+8:00)\nMalaysia time: 06-
+ Mar-2025 07:00 to 06-Mar-2025 16:00
+END:VEVENT
 END:VCALENDAR
