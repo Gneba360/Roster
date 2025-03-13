@@ -347,54 +347,6 @@ DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 1155\nDeparture: PEN at
  ysia time: 16-Mar-2025 21:20 to 16-Mar-2025 22:30
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MH 2646: KUL → BKI
-DTSTART;TZID=Asia/Kuala_Lumpur:20250318T111500
-DTEND;TZID=Asia/Kuala_Lumpur:20250318T135500
-DESCRIPTION:Duty Start: 10:00\nDuty Code: \nFlight: MH 2646\nDeparture: KU
- L at 11:15 (Asia/Kuala_Lumpur)\nArrival: BKI at 13:55 (Asia/Kuala_Lumpur)\
- nMalaysia time: 18-Mar-2025 11:15 to 18-Mar-2025 13:55
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MH 2641: BKI → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250318T144000
-DTEND;TZID=Asia/Kuala_Lumpur:20250318T172000
-DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2641\nDeparture: BKI at 
- 14:40 (Asia/Kuala_Lumpur)\nArrival: KUL at 17:20 (Asia/Kuala_Lumpur)\nMala
- ysia time: 18-Mar-2025 14:40 to 18-Mar-2025 17:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MH 2528: KUL → KCH
-DTSTART;TZID=Asia/Kuala_Lumpur:20250318T182000
-DTEND;TZID=Asia/Kuala_Lumpur:20250318T201500
-DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2528\nDeparture: KUL at 
- 18:20 (Asia/Kuala_Lumpur)\nArrival: KCH at 20:15 (Asia/Kuala_Lumpur)\nMala
- ysia time: 18-Mar-2025 18:20 to 18-Mar-2025 20:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MH 2543: KCH → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250319T102500
-DTEND;TZID=Asia/Kuala_Lumpur:20250319T121500
-DESCRIPTION:Duty Start: 09:25\nDuty Code: \nFlight: MH 2543\nDeparture: KC
- H at 10:25 (Asia/Kuala_Lumpur)\nArrival: KUL at 12:15 (Asia/Kuala_Lumpur)\
- nMalaysia time: 19-Mar-2025 10:25 to 19-Mar-2025 12:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MH 758: KUL → SGN
-DTSTART;TZID=Asia/Kuala_Lumpur:20250319T144000
-DTEND;TZID=Asia/Kuala_Lumpur:20250319T164000
-DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 758\nDeparture: KUL at 1
- 4:40 (Asia/Kuala_Lumpur)\nArrival: SGN at 15:40 (Asia/Ho_Chi_Minh)\nMalays
- ia time: 19-Mar-2025 14:40 to 19-Mar-2025 16:40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MH 759: SGN → KUL
-DTSTART;TZID=Asia/Kuala_Lumpur:20250319T174000
-DTEND;TZID=Asia/Kuala_Lumpur:20250319T194500
-DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 759\nDeparture: SGN at 1
- 6:40 (Asia/Ho_Chi_Minh)\nArrival: KUL at 19:45 (Asia/Kuala_Lumpur)\nMalays
- ia time: 19-Mar-2025 17:40 to 19-Mar-2025 19:45
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S1-738: KUL → KUL
 DTSTART;TZID=Asia/Kuala_Lumpur:20250321T030000
 DTEND;TZID=Asia/Kuala_Lumpur:20250321T130000
