@@ -690,4 +690,12 @@ DESCRIPTION:Duty Start: 12:15\nDuty Code: \nFlight: MH 807\nDeparture: MNL
   at 13:15 (UTC+8:00)\nArrival: KUL at 17:15 (UTC+8:00)\nMalaysia time: 26-
  Mar-2025 13:15 to 26-Mar-2025 17:15
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 104: KUL → BLR
+DTSTART;TZID=Asia/Kuala_Lumpur:20250302T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20250302T135000
+DESCRIPTION:Duty Start: 07:55\nDuty Code: \nFlight: MH 104\nDeparture: KUL
+  at 09:00 (UTC+8:00)\nArrival: BLR at 11:20 (UTC+5:30)\nMalaysia time: 02-
+ Mar-2025 09:00 to 02-Mar-2025 13:50
+END:VEVENT
 END:VCALENDAR
