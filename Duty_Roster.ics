@@ -586,4 +586,68 @@ DESCRIPTION:Duty Start: 07:55\nDuty Code: \nFlight: MH 104\nDeparture: KUL
   at 09:00 (UTC+8:00)\nArrival: BLR at 11:20 (UTC+5:30)\nMalaysia time: 02-
  Mar-2025 09:00 to 02-Mar-2025 13:50
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 772: KUL → CNX
+DTSTART;TZID=Asia/Kuala_Lumpur:20250310T094300
+DTEND;TZID=Asia/Kuala_Lumpur:20250310T121800
+DESCRIPTION:Duty Start: 08:30\nDuty Code: \nFlight: MH 772\nDeparture: KUL
+  at 09:43 (UTC+8:00)\nArrival: CNX at 11:18 (UTC+7:00)\nMalaysia time: 10-
+ Mar-2025 09:43 to 10-Mar-2025 12:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 773: CNX → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250310T125500
+DTEND;TZID=Asia/Kuala_Lumpur:20250310T160100
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 773\nDeparture: CNX at 1
+ 1:55 (UTC+7:00)\nArrival: KUL at 16:01 (UTC+8:00)\nMalaysia time: 10-Mar-2
+ 025 12:55 to 10-Mar-2025 16:01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2528: KUL → KCH
+DTSTART;TZID=Asia/Kuala_Lumpur:20250310T181500
+DTEND;TZID=Asia/Kuala_Lumpur:20250310T202900
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2528\nDeparture: KUL at 
+ 18:15 (UTC+8:00)\nArrival: KCH at 20:29 (UTC+8:00)\nMalaysia time: 10-Mar-
+ 2025 18:15 to 10-Mar-2025 20:29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2521: KCH → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250311T151700
+DTEND;TZID=Asia/Kuala_Lumpur:20250311T170200
+DESCRIPTION:Duty Start: 14:15\nDuty Code: \nFlight: MH 2521\nDeparture: KC
+ H at 15:17 (UTC+8:00)\nArrival: KUL at 17:02 (UTC+8:00)\nMalaysia time: 11
+ -Mar-2025 15:17 to 11-Mar-2025 17:02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2638: KUL → BKI
+DTSTART;TZID=Asia/Kuala_Lumpur:20250311T185600
+DTEND;TZID=Asia/Kuala_Lumpur:20250311T214300
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2638\nDeparture: KUL at 
+ 18:56 (UTC+8:00)\nArrival: BKI at 21:43 (UTC+8:00)\nMalaysia time: 11-Mar-
+ 2025 18:56 to 11-Mar-2025 21:43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 2639: BKI → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250311T222600
+DTEND;TZID=Asia/Kuala_Lumpur:20250312T005000
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 2639\nDeparture: BKI at 
+ 22:26 (UTC+8:00)\nArrival: KUL at 00:50 (UTC+8:00)\nMalaysia time: 11-Mar-
+ 2025 22:26 to 12-Mar-2025 00:50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 179: KUL → CMB
+DTSTART;TZID=Asia/Kuala_Lumpur:20250312T223500
+DTEND;TZID=Asia/Kuala_Lumpur:20250313T021000
+DESCRIPTION:Duty Start: 21:20\nDuty Code: \nFlight: MH 179\nDeparture: KUL
+  at 22:35 (UTC+8:00)\nArrival: CMB at 23:40 (UTC+5:30)\nMalaysia time: 12-
+ Mar-2025 22:35 to 13-Mar-2025 02:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MH 178: CMB → KUL
+DTSTART;TZID=Asia/Kuala_Lumpur:20250313T031000
+DTEND;TZID=Asia/Kuala_Lumpur:20250313T065700
+DESCRIPTION:Duty Start: \nDuty Code: \nFlight: MH 178\nDeparture: CMB at 0
+ 0:40 (UTC+5:30)\nArrival: KUL at 06:57 (UTC+8:00)\nMalaysia time: 13-Mar-2
+ 025 03:10 to 13-Mar-2025 06:57
+END:VEVENT
 END:VCALENDAR
